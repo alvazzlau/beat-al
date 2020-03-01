@@ -1,6 +1,7 @@
 .p1 {
-  height: 67%;
+  height: 62%;
   transform-origin: center 90%;
+  max-height: 390px;
 }
 
 .wrapper {
@@ -12,7 +13,7 @@
 .hammer {
   position: absolute;
   width: 200px;
-  top: -16%;
+  top: -100px;
   left: 30%;
   cursor: pointer;
 }
@@ -20,7 +21,7 @@
   height: 100%;
   position: absolute;
   left: 44.3%;
-  top: 24.5%;
+  top: 28.5%;
   transform-origin: 30% 80%;
 }
 .group {

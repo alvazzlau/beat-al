@@ -33,9 +33,10 @@
   background-size: contain;
   /* width: 90vw; */
   /* height: 90vh; */
-  padding-bottom: 53.2vw;
+  padding-bottom: 46.56%;
   position: relative;
   width: 1000px;
+  /* background-color: tomato; */
 }
 
 .counter {
