@@ -28,6 +28,42 @@
   color: #61dafb;
 }
 
+.background {
+  background: url('./asset/image/background.png') no-repeat center;
+  background-size: contain;
+  width: 90vw;
+  /* height: 90vh; */
+  padding-bottom: 53.2vw;
+  position: relative;
+}
+
+.counter {
+  background-color: #000;
+  height: 100px;
+  width: 150px;
+  opacity: 0.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.respawn {
+  cursor: pointer;
+  background-color: #000;
+  height: 70px;
+  width: 120px;
+  opacity: 0.5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

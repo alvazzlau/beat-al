@@ -1,0 +1,28 @@
+.p1 {
+  height: 65%;
+  transform-origin: center 90%;
+}
+
+.wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  /* background-color: red; */
+}
+.hammer {
+  position: absolute;
+  width: 200px;
+  top: -100px;
+  left: 22%;
+  cursor: pointer;
+}
+.background-1 {
+  height: 100%;
+  position: absolute;
+  left: 44.3%;
+  top: 25.5%;
+  transform-origin: 30% 80%;
+}
+.group {
+  position: relative;
+}
