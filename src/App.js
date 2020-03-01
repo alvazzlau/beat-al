@@ -79,7 +79,7 @@ function App() {
           },
           to: {
             scale: scale - 2.5,
-            tranY: tranY - 3,
+            tranY: tranY - 4,
           },
           stiffness: 3200,
           damping: 10

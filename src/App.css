@@ -31,10 +31,11 @@
 .background {
   background: url('./asset/image/background.png') no-repeat center;
   background-size: contain;
-  width: 90vw;
+  /* width: 90vw; */
   /* height: 90vh; */
   padding-bottom: 53.2vw;
   position: relative;
+  width: 1000px;
 }
 
 .counter {

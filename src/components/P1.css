@@ -1,5 +1,5 @@
 .p1 {
-  height: 65%;
+  height: 67%;
   transform-origin: center 90%;
 }
 
@@ -12,15 +12,15 @@
 .hammer {
   position: absolute;
   width: 200px;
-  top: -100px;
-  left: 22%;
+  top: -16%;
+  left: 30%;
   cursor: pointer;
 }
 .background-1 {
   height: 100%;
   position: absolute;
   left: 44.3%;
-  top: 25.5%;
+  top: 24.5%;
   transform-origin: 30% 80%;
 }
 .group {
